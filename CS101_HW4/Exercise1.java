@@ -1,5 +1,7 @@
 import java.util.Scanner;
 
+
+// simple ATM machine written in java
 public class Exercise1 {
 
 	public static void viewBalance(Scanner input, double balance) {
